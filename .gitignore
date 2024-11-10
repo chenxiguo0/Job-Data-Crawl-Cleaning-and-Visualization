@@ -1,1 +1,11 @@
+.env
+__pycache__/
+*.pyc
+
 .DS_Store
+
+googlejobs_alltitles_2024-11-05_22-34-20.json
+
+data/
+
+job_documents/
