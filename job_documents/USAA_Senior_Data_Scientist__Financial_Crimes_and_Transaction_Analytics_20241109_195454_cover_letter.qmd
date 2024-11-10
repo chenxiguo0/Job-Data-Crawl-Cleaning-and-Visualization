@@ -1,0 +1,41 @@
+---
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+title: Cover Letter - Senior Data Scientist  Financial Crimes and Transaction Analytics
+  at USAA
+
+---
+
+Jane Doe
+jane.doe@email.com
+(555) 123-4567
+
+[Date]
+
+Hiring Manager
+Company Name
+Company Address
+City, State, Zip
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Data Scientist position at [Company Name], as advertised on [where you found the job listing]. With a Master of Science in Data Science from State University and a strong background in developing machine learning models and optimizing data processes, I am excited about the opportunity to contribute to your team.
+
+In my current role as a Data Scientist at Tech Solutions Inc., I have led the development of machine learning models that significantly improved customer retention and implemented automated data pipelines that reduced processing time by 60%. These experiences have equipped me with the technical skills in applied statistical analysis, model development control, and scalable automation using machine learning techniques, which align with the key technical skills required for the position at [Company Name].
+
+During my time as a Data Science Intern at Innovation Corp, I developed predictive models for customer behavior and optimized ETL processes, showcasing my ability to translate complex business problems into analytical solutions and drive continuous innovation in modeling efforts. Additionally, I have mentored junior data scientists in ML best practices, demonstrating my commitment to collaboration, mentorship, and knowledge sharing, which are essential soft skills for the role at [Company Name].
+
+I am proficient in programming languages such as Python, R, SQL, and Java, and have experience using tools like TensorFlow, PyTorch, and scikit-learn. My familiarity with databases like PostgreSQL and MongoDB, cloud platforms including AWS and GCP, and other tools like Git and Agile methodologies further complement my technical skill set and ability to meet the requirements of the Data Scientist role at [Company Name].
+
+I am impressed by [Company Name]'s emphasis on driving business value through automation, commitment to risk management, and support for continuous learning and innovation, which align with my own values and aspirations. I am eager to contribute to your team by developing analytical solutions, mentoring junior data scientists, and participating in internal communities for data science transformation.
+
+Thank you for considering my application. I look forward to the opportunity to discuss how my background, skills, and experiences align with the requirements of the Data Scientist position at [Company Name]. Please find attached my resume for your review.
+
+Warm regards,
+
+Jane Doe
+[LinkedIn Profile]
+[GitHub Profile]

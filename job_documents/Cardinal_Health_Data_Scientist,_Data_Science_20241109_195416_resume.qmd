@@ -1,0 +1,60 @@
+---
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+title: Jane Doe
+
+---
+
+::: {.content-visible when-format="pdf"}
+| jane.doe@email.com | (555) 123-4567 |
+| linkedin.com/in/jane-doe | github.com/jane-doe |
+:::
+
+## Professional Summary
+
+Jane Doe is a results-driven Data Scientist with a Master's degree in Data Science and a proven track record of developing ML models that drive significant business improvements. She brings expertise in statistical modeling, algorithm development, and collaborative problem-solving to enhance revenue growth and customer insight.
+
+## Education
+
+### State University
+* Master of Science in Data Science
+* Springfield, ST
+* Graduated: May 2023
+* GPA: 3.92/4.0
+
+### Tech University
+* Bachelor of Science in Computer Science
+* Techville, ST
+* Graduated: May 2021
+* GPA: 3.85/4.0
+
+
+
+## Professional Experience
+
+### Data Scientist | Tech Solutions Inc.
+    * Remote | June 2023 - Present
+    * {'bullet': 'Led the development of ML models at Tech Solutions Inc., resulting in a 25% improvement in customer retention', 'priority': 1}
+* {'bullet': 'Implemented an automated data pipeline that reduced processing time by 60% at Tech Solutions Inc.', 'priority': 2}
+* {'bullet': 'Mentored 3 junior data scientists in ML best practices at Tech Solutions Inc.', 'priority': 3}
+* {'bullet': 'Developed predictive models for customer behavior at Innovation Corp during an internship', 'priority': 4}
+* {'bullet': 'Collaborated with different departments to identify opportunities for insight and revenue growth', 'priority': 5}
+
+### Data Science Intern | Innovation Corp
+    * Springfield, ST | May 2022 - August 2022
+    * {'bullet': 'Led the development of ML models at Tech Solutions Inc., resulting in a 25% improvement in customer retention', 'priority': 1}
+* {'bullet': 'Implemented an automated data pipeline that reduced processing time by 60% at Tech Solutions Inc.', 'priority': 2}
+* {'bullet': 'Mentored 3 junior data scientists in ML best practices at Tech Solutions Inc.', 'priority': 3}
+* {'bullet': 'Developed predictive models for customer behavior at Innovation Corp during an internship', 'priority': 4}
+* {'bullet': 'Collaborated with different departments to identify opportunities for insight and revenue growth', 'priority': 5}
+
+
+
+## Skills
+
+* **technical:** Statistical modeling, Algorithm development, Coding (Python, R), Reporting development, Data analysis, Predictive modeling, Machine learning, ETL processes optimization, Python (TensorFlow, scikit-learn), SQL
+* **soft:** Collaboration with team members and other departments, Proactive problem-solving, Mentorship, Communication skills with executives and business partners, Adaptability and flexibility in working on complex projects
+

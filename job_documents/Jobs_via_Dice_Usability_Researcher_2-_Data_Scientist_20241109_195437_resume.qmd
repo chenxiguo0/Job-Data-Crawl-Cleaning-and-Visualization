@@ -1,0 +1,62 @@
+---
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+title: Jane Doe
+
+---
+
+::: {.content-visible when-format="pdf"}
+| jane.doe@email.com | (555) 123-4567 |
+| linkedin.com/in/jane-doe | github.com/jane-doe |
+:::
+
+## Professional Summary
+
+Data scientist with a Master of Science in Data Science from State University and a proven track record of leading ML model development, optimizing data processes, and mentoring junior team members. Proficient in Python, R, SQL, and Java with hands-on experience in TensorFlow, PyTorch, and Docker.
+
+## Education
+
+### State University
+* Master of Science in Data Science
+* Springfield, ST
+* Graduated: May 2023
+* GPA: 3.92/4.0
+
+### Tech University
+* Bachelor of Science in Computer Science
+* Techville, ST
+* Graduated: May 2021
+* GPA: 3.85/4.0
+
+
+
+## Professional Experience
+
+### Data Scientist | Tech Solutions Inc.
+    * Remote | June 2023 - Present
+    * - Led the development of ML models at Tech Solutions Inc., enhancing customer retention by 25%
+* - Implemented an automated data pipeline to reduce processing time by 60%
+* - Mentored 3 junior data scientists in ML best practices
+* - Developed predictive models for customer behavior during internship at Innovation Corp
+* - Created interactive dashboards using Python and Streamlit
+* - Optimized ETL processes to improve efficiency by 40%
+
+### Data Science Intern | Innovation Corp
+    * Springfield, ST | May 2022 - August 2022
+    * - Led the development of ML models at Tech Solutions Inc., enhancing customer retention by 25%
+* - Implemented an automated data pipeline to reduce processing time by 60%
+* - Mentored 3 junior data scientists in ML best practices
+* - Developed predictive models for customer behavior during internship at Innovation Corp
+* - Created interactive dashboards using Python and Streamlit
+* - Optimized ETL processes to improve efficiency by 40%
+
+
+
+## Skills
+
+* **technical:** Proficiency in Python, R, SQL, Java, Experience with TensorFlow, PyTorch, Docker, Knowledge of big data analysis and usability testing, Ability to conduct qualitative and quantitative research activities
+* **soft:** Strong communication skills, Adaptability to prioritize research projects, Problem-solving skills, Creativity and innovation in uncovering user insights
+

@@ -1,0 +1,65 @@
+---
+format:
+  pdf:
+    documentclass: article
+    fontsize: 11pt
+    geometry: margin=1in
+title: Jane Doe
+
+---
+
+::: {.content-visible when-format="pdf"}
+| jane.doe@email.com | (555) 123-4567 |
+| linkedin.com/in/jane-doe | github.com/jane-doe |
+:::
+
+## Professional Summary
+
+Jane Doe is a highly skilled Data Scientist with a Master's in Data Science and a proven track record of developing ML models that drive business value. She excels in collaborating with teams to translate complex business problems into innovative analytical solutions.
+
+## Education
+
+### State University
+* Master of Science in Data Science
+* Springfield, ST
+* Graduated: May 2023
+* GPA: 3.92/4.0
+
+### Tech University
+* Bachelor of Science in Computer Science
+* Techville, ST
+* Graduated: May 2021
+* GPA: 3.85/4.0
+
+
+
+## Professional Experience
+
+### Data Scientist | Tech Solutions Inc.
+    * Remote | June 2023 - Present
+    * {'bullet': 'Led development of ML models improving customer retention by 25% at Tech Solutions Inc.'}
+* {'bullet': 'Implemented automated data pipeline reducing processing time by 60% at Tech Solutions Inc.'}
+* {'bullet': 'Mentored 3 junior data scientists in ML best practices at Tech Solutions Inc.'}
+* {'bullet': 'Developed predictive models for customer behavior at Innovation Corp.'}
+* {'bullet': 'Created interactive dashboards using Python and Streamlit at Innovation Corp.'}
+* {'bullet': 'Optimized ETL processes improving efficiency by 40% at Innovation Corp.'}
+
+### Data Science Intern | Innovation Corp
+    * Springfield, ST | May 2022 - August 2022
+    * {'bullet': 'Led development of ML models improving customer retention by 25% at Tech Solutions Inc.'}
+* {'bullet': 'Implemented automated data pipeline reducing processing time by 60% at Tech Solutions Inc.'}
+* {'bullet': 'Mentored 3 junior data scientists in ML best practices at Tech Solutions Inc.'}
+* {'bullet': 'Developed predictive models for customer behavior at Innovation Corp.'}
+* {'bullet': 'Created interactive dashboards using Python and Streamlit at Innovation Corp.'}
+* {'bullet': 'Optimized ETL processes improving efficiency by 40% at Innovation Corp.'}
+
+
+
+## Skills
+
+* **programming:** Python, R, SQL, Java
+* **tools:** TensorFlow, PyTorch, scikit-learn, Docker
+* **databases:** PostgreSQL, MongoDB, Redis
+* **cloud:** AWS, GCP, Azure
+* **other:** Git, CI/CD, Agile
+
