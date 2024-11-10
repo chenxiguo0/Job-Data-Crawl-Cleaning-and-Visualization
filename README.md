@@ -11,7 +11,7 @@
  
 
 
-* encountered errors with git push and couldn't fix it after trying, thus I uploaded the files manually.
+###encountered errors with git push and couldn't fix it after trying, thus I uploaded the files manually.
 
 Enumerating objects: 59, done.
 Counting objects: 100% (59/59), done.
