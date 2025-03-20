@@ -26,7 +26,7 @@ Once the job descriptions are crawled, we will manually clean and preprocess the
 
 The cleaned data will be stored in a CSV file (`data/processed-jobs-1.csv`) for exploratory data analysis (EDA).
 
-### Part 3: Leveraging LLM APIs for Cleaning (Part-2)
+### Part 3: Leveraging LLM APIs for Cleaning
 
 In the next phase, we'll refine our cleaning process using Large Language Models (LLMs) to automate and streamline the extraction of key information from job descriptions. Various APIs, such as OpenAI and others, will be used to enhance data processing efficiency through prompt engineering.
 
